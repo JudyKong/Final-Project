@@ -14,3 +14,13 @@ the LED13 is not blinking
 Maybe soemthing is wrong in the if statement 
 Instead of (led>40), put (total1>40)
 It works! The LED blinks 
+
+Repeat the code of the first sensor that plays JAPAN.WAV to play other five audios
+Indonisia won't play, says " can't play indonishia"
+Mis[elling the file name 
+no, nothing is mispelled 
+broken wire in the circuit 
+no, the wires are fine 
+Something's worng with the code 
+use the circuit ,that is tested out working, to play INDONISHIA
+still can not play Indonishia 
