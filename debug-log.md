@@ -8,12 +8,20 @@ Repeat steps iii-v above until you resolve your "bug".
 Use the code in the Arduino library to make the Capative sensor works
 The code doesn't work. It says " Error Compilling"
 Maybe the code isn't updated or maybe because I don't have the right resistor on arduino
+upload the library to arduino 
+it works!
 
 Blink the Led13 when the sensor is touched
 the LED13 is not blinking 
-Maybe soemthing is wrong in the if statement 
+Maybe something is wrong in the if statement 
 Instead of (led>40), put (total1>40)
 It works! The LED blinks 
+
+Make the wave shield play the WAV file in the SD card
+Error to play 
+file not the right format/size 
+resize the WAV file 
+JAPAN.WAV plays successfully 
 
 Repeat the code of the first sensor that plays JAPAN.WAV to play other five audios
 Indonisia won't play, says " can't play indonishia"
@@ -24,3 +32,9 @@ no, the wires are fine
 Something's worng with the code 
 use the circuit ,that is tested out working, to play INDONISHIA
 still can not play Indonishia 
+shorten the name of the file to "INDO.WAV"
+It works!
+
+
+
+
