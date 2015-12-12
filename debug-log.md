@@ -23,6 +23,13 @@ Maybe something is wrong in the if statement
 Instead of (led>40), put (total1>40)
 It works! The LED blinks 
 
+Use the wave shield to play something
+download the code from arduino 
+the code is not working 
+maybe I need to import the library 
+Import the library 
+It works!
+
 Root the WAV files in the code
 type in root.rewind(); call root.WAV in the loop 
 It's not working 
@@ -66,7 +73,11 @@ Maybe the 8 is plugged into the wrong end
 change the 8 from negative to positive 
 It works!
 
-
+Put a cardboard behind the map to make it shows better
+Capacitive sensor is not sensing accuratly all the sudden 
+Maybe the material interfer the conductivity 
+lean the map on the computer screen 
+it works perfectly
 
 
 
