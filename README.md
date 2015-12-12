@@ -34,3 +34,4 @@ I started with the capacitive sensor, I work one the code and the schematic of t
 https://drive.google.com/a/cca.edu/file/d/0B1-mG-9KZhYkbUpHbTFZTXl2bGs/view?usp=sharing
 https://drive.google.com/a/cca.edu/file/d/0B1-mG-9KZhYkWHhCNFd1eUE5ak0/view?usp=sharing
 https://learn.adafruit.com/downloads/pdf/adafruit-wave-shield-audio-shield-for-arduino.pdf
+https://drive.google.com/a/cca.edu/file/d/0B1-mG-9KZhYkQlVDTEljZUFZOTQ/view?usp=sharing
